@@ -15,4 +15,4 @@ git clone https://github.com/SFML/SFML.git
 3. You can build the project by running the shell script `run.sh` included in the base project folder.
 
 In the current version, the program (as far as I understand) can't link the SFML library to the executable, which results
-in the error output that can be found in `SortingAlgo/TerminalOutput.txt`.
+in the error output that can be found in `SortingAlgo/TerminalOutput.txt`. Any help would be greatly appreciated!

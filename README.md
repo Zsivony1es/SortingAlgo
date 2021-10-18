@@ -28,5 +28,7 @@ Here are the key bindings:
 + R - Reset the columns to their original position before sorting
 + M - Shuffle the order of columns
 
+In the terminal you will also get information about the runtime of the last sort and feedback if one of the buttons were pressed.
+
 In the future, I am planning to give the program an UI instead of having keyboard bindings,
 but for the first version I just wanted to test if the algorithms worked well enough.

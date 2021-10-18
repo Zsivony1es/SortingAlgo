@@ -1,1 +1,1 @@
-rm -rf build/ && mkdir build && cd build/ && cmake .. -DCMAE_TYPE=Debug && make && cd ..
+rm -rf build/ && mkdir build && cd build/ && cmake .. -DCMAE_TYPE=Debug -DCMAKE_OSX_ARCHITECTURES="arm64" && make && cd ..
